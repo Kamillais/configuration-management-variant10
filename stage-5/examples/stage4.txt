@@ -1,0 +1,9 @@
+ls
+cd /docs
+ls
+uname
+uname -a
+who
+cal
+cal 10 2026
+unknown

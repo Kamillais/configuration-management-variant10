@@ -1,0 +1,6 @@
+ls
+cd /docs
+ls
+cd /docs/projects
+ls
+cd /missing

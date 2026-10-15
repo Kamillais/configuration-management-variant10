@@ -1,0 +1,11 @@
+ls
+mkdir newdir
+ls
+cd newdir
+mkdir child
+rmdir child
+cd /
+rmdir newdir
+mkdir already
+mkdir already
+rmdir already

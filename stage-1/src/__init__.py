@@ -1,0 +1,1 @@
+"""Virtual shell stage."""
